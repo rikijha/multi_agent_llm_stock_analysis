@@ -1,0 +1,17 @@
+requests
+langchain
+unstructured
+praw
+torch
+transformers
+yfinance
+pandas==2.2.2
+numpy==1.26.4
+streamlit
+plotly
+crewai
+crewai-tools
+langchain-community
+langchain-openai
+python-dotenv==1.0.1
+chromadb
